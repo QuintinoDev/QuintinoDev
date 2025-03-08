@@ -45,9 +45,9 @@ Moro em **Brasília-DF**, uma cidade cheia de cultura e inovação!
 </div>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/QuintinoDev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/QuintinoDev/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/QuintinoDev/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QuintinoDev/QuintinoDev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QuintinoDev/QuintinoDev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/QuintinoDev/QuintinoDev/output/github-contribution-grid-snake.svg">
 </picture>
 <!--
 **QuintinoDev/QuintinoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
