@@ -3,7 +3,9 @@
 
 ## 🎓 Formação
 
-Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no **UDF - Centro Universitário**, no quarto semestre, com previsão de conclusão em **julho de 2025**.
+Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no **UDF - Centro Universitário**, no quarto semestre, com previsão de conclusão em **julho de 2025**.<br><br>
+Pos-Graduação em Linguagens e **Paradigmas de Programação** na **Gran Faculdade**, no 1º modulo, com previsão de comclusão em **agosto de 2025**.<br><br>
+Pos-Graduação em Linguagens e **Arquitetura e Desenvolvimento de Sistemas com ênfase em Padrões de Projeto** na **Gran Faculdade**, no 1º modulo, com previsão de comclusão em **agosto de 2025**.
 
 ## 💻 Tecnologias e Cursos
 
